@@ -1,0 +1,4 @@
+Conceptos aprendidos:
+1. Repositorio local y remoto
+2. Commits y cambios de rama
+3. Ramas secundarias y fusiones
